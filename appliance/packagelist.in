@@ -94,6 +94,7 @@ dnl iproute has been renamed to iproute2
   zfs-fuse
   zstd
   uuid-runtime
+  fdisk
 )
 
 ifelse(ARCHLINUX,1,
